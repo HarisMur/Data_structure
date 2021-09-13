@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AbstractList
+comment1.params=
+comment1.target=AbstractList()
+comment2.params=objects
+comment2.target=AbstractList(java.lang.Object[])
+comment2.text=default\ constructor
+comment3.params=e
+comment3.target=void\ add(java.lang.Object)
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=int\ size()
+comment6.params=e
+comment6.target=boolean\ remove(java.lang.Object)
+numComments=7

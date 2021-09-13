@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=HallBooking
+comment1.params=id\ event\ start\ days
+comment1.target=HallBooking(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=
+comment11.target=double\ payment()
+comment2.params=id
+comment2.target=void\ setID(java.lang.String)
+comment3.params=event
+comment3.target=void\ setEvent(java.lang.String)
+comment4.params=start
+comment4.target=void\ setStart(java.lang.String)
+comment5.params=days
+comment5.target=void\ setDays(int)
+comment6.params=
+comment6.target=java.lang.String\ getID()
+comment7.params=
+comment7.target=java.lang.String\ getEvent()
+comment8.params=
+comment8.target=java.lang.String\ getStart()
+comment9.params=
+comment9.target=int\ getDays()
+numComments=12
